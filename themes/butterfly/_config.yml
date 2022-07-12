@@ -83,7 +83,7 @@ favicon: /img/favicon.png
 
 # Avatar (頭像)
 avatar:
-  img: #/img/tx.jpg
+  img: /img/tx.jpg
   effect: false
 
 # Disable all banner image
@@ -867,52 +867,52 @@ CDN:
   custom_format:
 
   option:
-    # main_css:
-    # main:
-    # utils:
-    # translate:
-    # local_search:
-    # algolia_js:
-    # algolia_search_v4:
-    # instantsearch_v4:
-    # pjax:
-    # gitalk:
-    # gitalk_css:
-    # blueimp_md5:
-    # valine:
-    # disqusjs:
-    # disqusjs_css:
-    # twikoo:
-    # waline_js:
-    # waline_css:
-    # sharejs:
-    # sharejs_css:
-    # mathjax:
-    # katex:
-    # katex_copytex:
-    # mermaid:
-    # canvas_ribbon:
-    # canvas_fluttering_ribbon:
-    # canvas_nest:
-    # lazyload:
-    # instantpage:
-    # typed:
-    # pangu:
-    # fancybox_css_v4:
-    # fancybox_v4:
-    # medium_zoom:
-    # snackbar_css:
-    # snackbar:
-    # activate_power_mode:
-    # fireworks:
-    # click_heart:
-    # ClickShowText:
-    # fontawesomeV6:
-    # flickr_justified_gallery_js:
-    # flickr_justified_gallery_css:
-    # aplayer_css:
-    # aplayer_js:
-    # meting_js:
-    # prismjs_js:
-    # prismjs_lineNumber_js:
-    # prismjs_autoloader:
+     main_css:
+     main:
+     utils:
+     translate:
+     local_search:
+     algolia_js:
+     algolia_search_v4:
+     instantsearch_v4:
+     pjax:
+     gitalk:
+     gitalk_css:
+     blueimp_md5:
+     valine:
+     disqusjs:
+     disqusjs_css:
+     twikoo:
+     waline_js:
+     waline_css:
+     sharejs:
+     sharejs_css:
+     mathjax:
+     katex:
+     katex_copytex:
+     mermaid:
+     canvas_ribbon:
+     canvas_fluttering_ribbon:
+     canvas_nest:
+     lazyload:
+     instantpage:
+     typed:
+     pangu:
+     fancybox_css_v4:
+     fancybox_v4:
+     medium_zoom:
+     snackbar_css:
+     snackbar:
+     activate_power_mode:
+     fireworks:
+     click_heart:
+     ClickShowText:
+     fontawesomeV6:
+     flickr_justified_gallery_js:
+     flickr_justified_gallery_css:
+     aplayer_css:
+     aplayer_js:
+     meting_js:
+     prismjs_js:
+     prismjs_lineNumber_js:
+     prismjs_autoloader:
