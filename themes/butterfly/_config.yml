@@ -90,10 +90,10 @@ avatar:
 disable_top_img: false
 
 # The banner image of home page
-index_img: /img/sese.jpg
+index_img: https://api.ixiaowai.cn/api/api.php
 
 # If the banner of page not setting, it will show the top_img
-default_top_img: /img/sese.jpg
+default_top_img: https://api.ixiaowai.cn/api/api.php
 
 # The banner image of archive page
 archive_img: 
