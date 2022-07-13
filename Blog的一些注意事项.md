@@ -9,6 +9,8 @@ github ssh的连接
 打不开github？
 https://raw.hellogithub.com/hosts 复制其中内容，编辑hosts
 
+ipconfig /flushdns
+
 文章链接更改器：npm install hexo-abbrlink2 --save
 
 ```
