@@ -1,7 +1,25 @@
-作者：直上云霄  
-链接：https://www.zhihu.com/question/21193762/answer/489124966  
-来源：知乎  
-著作权归作者所有。商业转载请联系作者获得授权，非商业转载请注明出处。  
+github ssh的连接
+生成密钥ssh-keygen -t ed25519 -C "lizymirror@outlook.com"
+启动连接eval "$(ssh-agent -s)"
+添加密钥ssh-add ~/.ssh/id_ed25519
+复制密钥clip < ~/.ssh/id_ed25519.pub
+--去github添加
+连接ssh -T git@github.com
+
+打不开github？
+https://raw.hellogithub.com/hosts 复制其中内容，编辑hosts
+
+文章链接更改器：npm install hexo-abbrlink2 --save
+
+```
+open http://localhost:4000/bridge/
+```
+
+```
+permalink: posts/:abbrlink/
+```
+
+https://butterfly.js.org
 
 ## **git分支进行多终端工作**
 
@@ -124,7 +142,10 @@ git clone git@………………
 ```text
 cd xxx.github.io
 npm install
+npm install hexo-cli -g
 npm install hexo-deployer-git --save
+npm install hexo-abbrlink2 --save
+npm i --save hexo-bridge
 npm install --save hexo-renderer-jade hexo-generator-feed hexo-generator-sitemap hexo-browsersync hexo-generator-archive
 ```
 
