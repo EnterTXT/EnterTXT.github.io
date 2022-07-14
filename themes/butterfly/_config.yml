@@ -13,7 +13,8 @@ menu:
    #Link: /link/ || fas fa-link
    关于: /about/ || fas fa-heart
    #同人: /tongren/
-   资源下载: /download/ || fas fa-cloud-download-alt
+   资源: /download/ || fas fa-cloud-download-alt
+   图库: /tuku/ || fas fa-images
    友情链接: /link/ || fas fa-user-friends
 
 # Code Blocks (代碼相關)
@@ -651,7 +652,7 @@ aside:
       link: https://github.com/EnterTXT
   card_announcement:
     enable: true
-    content: 本站只为18岁以上心智成熟，对信息有较强辨析能力的成年人开放。小朋友请乖乖退出好好学习哦~
+    content: 网站建设中
   card_recent_post:
     enable: true
     limit: 5 # if set 0 will show all
