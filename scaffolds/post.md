@@ -3,7 +3,7 @@ title: {{ title }}
 date: {{ date }}
 updated:
 tags: 算法
-categories: 排序
+categories: 搜索
 keywords:
 description:
 top_img:
