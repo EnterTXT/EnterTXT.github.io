@@ -146,9 +146,6 @@ cd xxx.github.io
 npm install
 npm install hexo-cli -g
 npm install hexo-deployer-git hexo-abbrlink hexo-renderer-jade hexo-generator-feed hexo-generator-sitemap hexo-browsersync hexo-generator-archive --save
-npm install hexo-abbrlink --save
-npm i --save hexo-bridge
-npm install --save hexo-renderer-jade hexo-generator-feed hexo-generator-sitemap hexo-browsersync hexo-generator-archive
 ```
 
 生成，部署：

@@ -27,7 +27,6 @@
 <a href="/characters/scaramouche.html" title="斯卡拉莫什同人漫画" target="_blank">斯卡拉莫什</a>
 <a href="/characters/eula.html" title="优菈同人漫画" target="_blank">优菈</a>
 <a href="/characters/barbara-pegg.html" title="芭芭拉·佩奇同人漫画" target="_blank">芭芭拉·佩奇</a>
-<a href="/characters/yae-miko.html" title="八重神子同人漫画" target="_blank">八重神子</a>
 </div>
 </div>
 </div>
