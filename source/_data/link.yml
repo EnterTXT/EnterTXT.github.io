@@ -1,0 +1,9 @@
+- class_name: 友情鏈接
+  class_desc: 
+  link_list:
+    - name: 臭站
+      link: https://1919810.com
+      avatar: /img/臭站.png
+      descr: 感谢由1919810.com提供的臭不可闻的域名
+
+
