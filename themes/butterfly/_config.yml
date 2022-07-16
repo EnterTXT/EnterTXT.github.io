@@ -653,7 +653,7 @@ aside:
       link: https://github.com/EnterTXT
   card_announcement:
     enable: true
-    content: 网站建设中
+    content: 找不到彩蛋？404倒过来试试！
   card_recent_post:
     enable: true
     limit: 5 # if set 0 will show all
