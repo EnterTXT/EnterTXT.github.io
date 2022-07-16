@@ -24,7 +24,6 @@
 <a href="/characters/noelle.html" title="诺艾尔同人漫画" target="_blank">诺艾尔</a>
 <a href="/characters/rosaria.html" title="罗莎莉亚同人漫画" target="_blank">罗莎莉亚</a>
 <a href="/characters/baron-bunny.html" title="兔兔伯爵同人漫画" target="_blank">兔兔伯爵</a>
-<a href="/characters/venti.html" title="温迪同人漫画" target="_blank">温迪</a>
 <a href="/characters/scaramouche.html" title="斯卡拉莫什同人漫画" target="_blank">斯卡拉莫什</a>
 <a href="/characters/eula.html" title="优菈同人漫画" target="_blank">优菈</a>
 <a href="/characters/barbara-pegg.html" title="芭芭拉·佩奇同人漫画" target="_blank">芭芭拉·佩奇</a>
