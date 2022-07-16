@@ -1,8 +1,4 @@
 
-<div class="more_characters">
-<a href="/characters/aether.html" title="空同人漫画" target="_blank">空</a>
-<a href="/characters/raiden-shogun.html" title="雷电将军同人漫画" target="_blank">雷电将军</a>
-<a href="/characters/paimon.html" title="派蒙同人漫画" target="_blank">派蒙</a>
 <a href="/characters/klee.html" title="可莉同人漫画" target="_blank">可莉</a>
 <a href="/characters/mona-megistus.html" title="莫娜·梅姬斯图斯同人漫画" target="_blank">莫娜·梅姬斯图斯</a>
 <a href="/characters/lumine.html" title="荧同人漫画" target="_blank">荧</a>
