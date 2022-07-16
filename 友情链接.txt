@@ -1,5 +1,4 @@
 
-<a href="/characters/klee.html" title="可莉同人漫画" target="_blank">可莉</a>
 <a href="/characters/mona-megistus.html" title="莫娜·梅姬斯图斯同人漫画" target="_blank">莫娜·梅姬斯图斯</a>
 <a href="/characters/lumine.html" title="荧同人漫画" target="_blank">荧</a>
 <a href="/characters/hilichurl.html" title="丘丘人同人漫画" target="_blank">丘丘人</a>
