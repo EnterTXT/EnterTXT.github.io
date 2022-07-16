@@ -14,7 +14,7 @@ aplayer:
 highlight_shrink:
 ---
 
-# 恭喜找到菜单界面，这是给你的奖励
+# 恭喜找到彩蛋界面，这是给你的奖励
 
 ![](https://file.3dtuman.com/hentai/2021012722/thumb_0_425_f1ggshsx052.jpg)
 ![](https://file.3dtuman.com/hentai/20220623/thumb_0_425_frysovmi5am.jpg)
